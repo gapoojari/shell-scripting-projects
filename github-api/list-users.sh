@@ -1,4 +1,10 @@
+###################
+###Author: Gapoojari
+###Date: April 2024
+###About: Git api integration
+#############################
 #!/bin/bash
+
 helper()
 
 # GitHub API URL
